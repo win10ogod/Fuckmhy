@@ -38,4 +38,4 @@ jobs:
         name: net6.0
         path: ./PemukulPaku_build
     - name: Clean up
-      run: rm Proto.zip && rm -r -force ./PemukulPaku_build
+      run: rm -r -force ./PemukulPaku_build
